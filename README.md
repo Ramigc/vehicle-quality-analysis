@@ -30,18 +30,18 @@ vehicle-defect-component-analysis/
 │
 ├── README.md
 ├── notebooks/
-│   ├── case_study_group_05.ipynb
-│   └── general_tasks_group_05.ipynb
+│   ├── case_study.ipynb
+│   └── general_tasks.ipynb
 │
 └── data/
-    └── Final_dataset_group_05.csv
+    └── Final_dataset.csv
 ```
 
 The two notebooks contain the main work from the project:
 
-- `case_study_group_05.ipynb` contains the main case study analysis and the final component defect summary.
-- `general_tasks_group_05.ipynb` contains additional tasks from the course, including delay analysis, regression, and other smaller data analysis questions.
-- `Final_dataset_group_05.csv` is the final processed dataset created from the case study.
+- `case_study.ipynb` contains the main case study analysis and the final component defect summary.
+- `general_tasks.ipynb` contains additional tasks from the course, including delay analysis, regression, and other smaller data analysis questions.
+- `Final_dataset.csv` is the final processed dataset created from the case study.
 
 ## Tools used
 
