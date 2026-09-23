@@ -10,19 +10,6 @@ In this case study, the data was split across many CSV files instead of being in
 
 We focused on vehicles that were marked as defective and registered between 2014 and 2016. Then we looked at selected German cities and checked which major components were connected to the defective vehicles.
 
-The cities included in the final analysis were:
-
-- Augsburg
-- Ingolstadt
-- Regensburg
-- Würzburg
-- Bamberg
-- Bayreuth
-- Aschaffenburg
-- Erlangen
-- Rosenheim
-- Landshut
-
 ## Files in this repository
 
 ```text
