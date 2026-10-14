@@ -1,7 +1,4 @@
 # Vehicle Defect Component Analysis
-
-This is a university group project where we worked with several vehicle-related datasets and tried to find out which defective components appeared most often in different German cities.
-
 The main idea was to combine data from vehicles, registrations, components, spare parts, and defect records. After cleaning and filtering the data, we created a final table showing the number of defective motors, transmissions, and seats for each selected city.
 
 ## What this project is about
