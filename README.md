@@ -92,7 +92,7 @@ From the final table, Augsburg had the highest number of defective components in
 
 ## Other analysis in the project
 
-The second notebook includes some extra tasks from the course, such as:
+The second notebook includes some extra tasks , such as:
 
 - checking logistics delay times
 - calculating average delay using working days
@@ -101,6 +101,4 @@ The second notebook includes some extra tasks from the course, such as:
 - using linear regression for mileage analysis
 - identifying possible hit-and-run vehicles based on the available data
 
-## Note
 
-This project was completed as part of a university group assignment. The repository includes the notebooks and final processed dataset, but not all original raw CSV files used during the course.
